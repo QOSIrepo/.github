@@ -1,6 +1,6 @@
 <picture style="display: block; max-width: 100%;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/159104432?s=400&u=3231c69b3bbb4d8b28b13819c13552e99287245d&v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/159104432?s=400&u=3231c69b3bbb4d8b28b13819c13552e99287245d&v=4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://qosi.kz/wp-content/uploads/2024/01/Vector-1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://qosi.kz/wp-content/uploads/2024/01/Vector-1.svg">
   <img alt="Qazaq Open Source Initiative" src="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png" style="width: 100%; height: auto; max-width: 100%;">
 </picture>
 
